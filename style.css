@@ -56,7 +56,7 @@ section{ display: flex;  }
 .leftside { width: 50%; height: auto; overflow: hidden; margin-top: 20px;}
 
 .leftside img{  width: 300px;  height: 300px; padding-left:0 ;
-    margin-left: 200px;
+    margin-left: 50px;
     margin-top: 50px; 
 border: 5px brown solid;
 border-radius: 8px;
